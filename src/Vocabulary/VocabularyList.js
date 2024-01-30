@@ -49,6 +49,7 @@ class VocabularyList extends Component {
                     return (
                         <>
                             <EditOutlined />
+                            <DeleteOutlined />
                         </>
                     );
                 },
